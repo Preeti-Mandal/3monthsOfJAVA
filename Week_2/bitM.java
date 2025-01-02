@@ -1,7 +1,4 @@
 
-
-
-
 // public class bitM {
 //     public static void evenORodd(int n){
 //         int bitMask=1;
